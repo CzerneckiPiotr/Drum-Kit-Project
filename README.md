@@ -4,7 +4,7 @@ Drum Kit Project is an application which allows you to play various drum sounds 
 Under each button you can find different sound assigned to its own key on the keybord.  
 
 ## Launch
-> http
+> https://czerneckipiotr.github.io/Drum-Kit-Project/
 
 ## Description
 You can play the drum sounds by clicking on buttons or using keybord keys.
