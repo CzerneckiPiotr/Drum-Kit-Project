@@ -1,6 +1,6 @@
 ## Drum-Kit-Project
 
-Drum Kit Project is an application which allows you to play various drum sounds using eather mouse or keyboard.
+Drum Kit Project is an application which allows you to play various drum sounds using either mouse or keyboard.
 Under each button you can find different sound assigned to its own key on the keybord.  
 
 ## Launch
@@ -12,15 +12,15 @@ Sounds played using buttons are separate from sound using keybord.
 Aplication is created for desktop and mobile devices.
 
 Buttons and keybord keys correspond to a specific drum sound:
-- W:  CLAP
-- S:  HIHAT
-- D:  KICK
-- F:  OPENHAT
-- G:  BOOM
-- H:  RIDE
-- J:  SNARE
-- K:  TOM
-- L:  TINK
+- W: CLAP
+- S: HIHAT
+- D: KICK
+- F: OPENHAT
+- G: BOOM
+- H: RIDE
+- J: SNARE
+- K: TOM
+- L: TINK
 
 ## Technologies Used:
 - `HTML`
